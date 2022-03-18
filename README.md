@@ -1,6 +1,6 @@
 # wheel_picker
 
-A new Flutter project.
+A new Flutter Sample project.
 
 ## Getting Started
 
